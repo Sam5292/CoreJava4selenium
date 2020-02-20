@@ -24,7 +24,7 @@ public class ArmstrongNumber
 	    }
 	    	else
 	    	{
-	        System.out.println("The Number is not Armstrong number");   
+	        System.out.println("The Number is not Armstrong number and code in git hub");   
 	   }  
 	
 	}
